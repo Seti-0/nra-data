@@ -1,0 +1,3730 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Multi-Day Volume Report NRA 000000020078 2020-04-01 to 2020-04-30 Report NRA 000000020078 2020-04-01 to 2020-04-30</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+/*<![CDATA[*/
+.key td { white-space: nowrap; }
+.key td.A,.key td.W,.key td.S,.key td.C,.key td.H { white-space: pre; }
+td.A { background-color: #DD9CB3; } /* Salmon */
+td.W { background-color: #80F7B5; } /* SeaGreen */
+td.S { background-color: #FFFF80; } /* Yellow */
+td.C { background-color: #A6CAF0; } /* Blue */
+td.H { background-color: #CCCCCC; } /* Weekend grey */
+td.WeA { background-color: #99586F; }
+td.WeW { background-color: #3CB371; }
+td.WeS { background-color: #CCCC40; }
+td.WeC { background-color: #6286AC; }
+td.WeH { background-color: #CCCCCC; }
+td.We,th.We { background-color: #CCCCCC; }
+td.P { border: 1px solid #808080; } /* Patched - border */
+td.TLI { color:#A0A0A0; } /* Too Little Information - grey text */
+td.NOI { color:red; } /* Too Little Information - red text */
+.grid td { border:none; } /* No borders by default */
+.grid .TBL td, .grid .TBL { border-left:2px solid #000000; } /* Thick left border for intermediate totals */
+.grid .TBR td, .grid .TBR { border-right:2px solid #000000; } /* Thick right border for intermediate totals */
+.grid .TBT td, .grid .TBT { border-top:2px solid #000000; } /* Thick top border for intermediate totals */
+.grid .TBB td, .grid .TBB { border-bottom:2px solid #000000; } /* Thick bottom border for intermediate totals */
+.grid .BL td, .grid .BL { border-left:1px solid #000000; } /* Thin left border for intermediate totals */
+.grid .BR td, .grid .BR { border-right:1px solid #000000; } /* Thin right border for intermediate totals */
+.grid .BT td, .grid .BT { border-top:1px solid #000000; } /* Thin top border for intermediate totals */
+.grid .BB td, .grid .BB { border-bottom:1px solid #000000; } /* Thin bottom border for intermediate totals */
+.grid .TBP th, .grid .TBP { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; } /* Top and bottom padding */
+th { mso-number-format: \@; } /* So dates in headers are interpreted as strings */
+th.XlDM { mso-number-format:"d mmm"; } /* Force short dates */
+th.WeXlDM { background-color: #CCCCCC; mso-number-format:"d mmm"; } /* Force short dates */
+/*]]>*/
+</style>
+</head>
+<body class="fixed">
+<div id="wrapper">
+<b>Multi-Day Volume Report NRA 000000020078 2020-04-01 to 2020-04-30</b> <div id="container">
+  <div id="content">
+<div class="panel panel-default">  <div class="panel-heading">   <table>
+    <tr><td>Site Name</td><td style='mso-number-format:"\@";' colspan=3>TMU M07 070.0 W</td></tr>
+    <tr><td>Site ID</td><td style='mso-number-format:"\@";' colspan=3>000000020078</td></tr>
+    <tr><td>Grid</td><td style='mso-number-format:"\@";' colspan=3>251277200457</td></tr>
+    <tr><td>Description</td><td colspan=3>M07 Between Jn15 Ballybrittas and Jn16 Portlaoise (East), Ballydavis, Co. Laois</td></tr>
+   </table>
+</div>  <div class="panel-body">   <div id="selector">
+    <ul id="dropdownmenu">
+<table><tr><td>Setup</td><td colspan=3>M7 20078</td></tr></table>
+<table><tr><td>Channel</td><td colspan=3>Each Direction
+</td></tr></table>
+<table><tr><td>Time Period</td><td colspan=3>24 hours
+</td></tr></table>
+<table><tr><td>Class</td><td colspan=3>Any</td></tr></table>
+<table><tr><td>Exclude data:</td><td colspan=3>None</td></tr></table>
+    </ul>
+   </div> <!--selector-->
+<table class="grid" id="gridTable" BORDER=1>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>All directions</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>9670</td>
+  <td>10000</td>
+  <td>10382</td>
+  <td class="We">5171</td>
+  <td class="We">3987</td>
+  <td>10060</td>
+  <td>9996</td>
+  <td>10117</td>
+  <td>10199</td>
+  <td>7951</td>
+  <td class="We">3856</td>
+  <td class="We">2453</td>
+  <td class="WeH">3901</td>
+  <td>9750</td>
+  <td>10182</td>
+  <td>10353</td>
+  <td>10360</td>
+  <td class="We">4875</td>
+  <td class="We">3679</td>
+  <td>10257</td>
+  <td>10284</td>
+  <td>10545</td>
+  <td>10702</td>
+  <td>10480</td>
+  <td class="We">5164</td>
+  <td class="We">3938</td>
+  <td>10808</td>
+  <td>10896</td>
+  <td>11076</td>
+  <td>11197</td>
+  <td>9962</td>
+  <td>8299</td>
+  <td>252289</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>9670</td>
+  <td>10000</td>
+  <td>10382</td>
+  <td class="We">5171</td>
+  <td class="We">3987</td>
+  <td>10060</td>
+  <td>9996</td>
+  <td>10117</td>
+  <td>10199</td>
+  <td>7951</td>
+  <td class="We">3856</td>
+  <td class="We">2453</td>
+  <td class="We">3901</td>
+  <td>9750</td>
+  <td>10182</td>
+  <td>10353</td>
+  <td>10360</td>
+  <td class="We">4875</td>
+  <td class="We">3679</td>
+  <td>10257</td>
+  <td>10284</td>
+  <td>10545</td>
+  <td>10702</td>
+  <td>10480</td>
+  <td class="We">5164</td>
+  <td class="We">3938</td>
+  <td>10808</td>
+  <td>10896</td>
+  <td>11076</td>
+  <td>11197</td>
+  <td>9962</td>
+  <td>8299</td>
+  <td>252289</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>9670</td>
+  <td>10000</td>
+  <td>10382</td>
+  <td class="We">5171</td>
+  <td class="We">3987</td>
+  <td>10060</td>
+  <td>9996</td>
+  <td>10117</td>
+  <td>10199</td>
+  <td>7951</td>
+  <td class="We">3856</td>
+  <td class="We">2453</td>
+  <td class="We">3901</td>
+  <td>9750</td>
+  <td>10182</td>
+  <td>10353</td>
+  <td>10360</td>
+  <td class="We">4875</td>
+  <td class="We">3679</td>
+  <td>10257</td>
+  <td>10284</td>
+  <td>10545</td>
+  <td>10702</td>
+  <td>10480</td>
+  <td class="We">5164</td>
+  <td class="We">3938</td>
+  <td>10808</td>
+  <td>10896</td>
+  <td>11076</td>
+  <td>11197</td>
+  <td>9962</td>
+  <td>8299</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>9670</td>
+  <td>10000</td>
+  <td>10382</td>
+  <td class="We">5171</td>
+  <td class="We">3987</td>
+  <td>10060</td>
+  <td>9996</td>
+  <td>10117</td>
+  <td>10199</td>
+  <td>7951</td>
+  <td class="We">3856</td>
+  <td class="We">2453</td>
+  <td class="We">3901</td>
+  <td>9750</td>
+  <td>10182</td>
+  <td>10353</td>
+  <td>10360</td>
+  <td class="We">4875</td>
+  <td class="We">3679</td>
+  <td>10257</td>
+  <td>10284</td>
+  <td>10545</td>
+  <td>10702</td>
+  <td>10480</td>
+  <td class="We">5164</td>
+  <td class="We">3938</td>
+  <td>10808</td>
+  <td>10896</td>
+  <td>11076</td>
+  <td>11197</td>
+  <td>9962</td>
+  <td>8299</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>All Westbound</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>4855</td>
+  <td>5020</td>
+  <td>5269</td>
+  <td class="We">2626</td>
+  <td class="We">1932</td>
+  <td>4942</td>
+  <td>5020</td>
+  <td>5049</td>
+  <td>5137</td>
+  <td>3999</td>
+  <td class="We">1948</td>
+  <td class="We">1145</td>
+  <td class="WeH">1899</td>
+  <td>4769</td>
+  <td>5077</td>
+  <td>5157</td>
+  <td>5150</td>
+  <td class="We">2495</td>
+  <td class="We">1746</td>
+  <td>5038</td>
+  <td>5082</td>
+  <td>5264</td>
+  <td>5394</td>
+  <td>5295</td>
+  <td class="We">2631</td>
+  <td class="We">1872</td>
+  <td>5283</td>
+  <td>5368</td>
+  <td>5484</td>
+  <td>5563</td>
+  <td>4960</td>
+  <td>4128</td>
+  <td>125509</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>4855</td>
+  <td>5020</td>
+  <td>5269</td>
+  <td class="We">2626</td>
+  <td class="We">1932</td>
+  <td>4942</td>
+  <td>5020</td>
+  <td>5049</td>
+  <td>5137</td>
+  <td>3999</td>
+  <td class="We">1948</td>
+  <td class="We">1145</td>
+  <td class="We">1899</td>
+  <td>4769</td>
+  <td>5077</td>
+  <td>5157</td>
+  <td>5150</td>
+  <td class="We">2495</td>
+  <td class="We">1746</td>
+  <td>5038</td>
+  <td>5082</td>
+  <td>5264</td>
+  <td>5394</td>
+  <td>5295</td>
+  <td class="We">2631</td>
+  <td class="We">1872</td>
+  <td>5283</td>
+  <td>5368</td>
+  <td>5484</td>
+  <td>5563</td>
+  <td>4960</td>
+  <td>4128</td>
+  <td>125509</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>4855</td>
+  <td>5020</td>
+  <td>5269</td>
+  <td class="We">2626</td>
+  <td class="We">1932</td>
+  <td>4942</td>
+  <td>5020</td>
+  <td>5049</td>
+  <td>5137</td>
+  <td>3999</td>
+  <td class="We">1948</td>
+  <td class="We">1145</td>
+  <td class="We">1899</td>
+  <td>4769</td>
+  <td>5077</td>
+  <td>5157</td>
+  <td>5150</td>
+  <td class="We">2495</td>
+  <td class="We">1746</td>
+  <td>5038</td>
+  <td>5082</td>
+  <td>5264</td>
+  <td>5394</td>
+  <td>5295</td>
+  <td class="We">2631</td>
+  <td class="We">1872</td>
+  <td>5283</td>
+  <td>5368</td>
+  <td>5484</td>
+  <td>5563</td>
+  <td>4960</td>
+  <td>4128</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>4855</td>
+  <td>5020</td>
+  <td>5269</td>
+  <td class="We">2626</td>
+  <td class="We">1932</td>
+  <td>4942</td>
+  <td>5020</td>
+  <td>5049</td>
+  <td>5137</td>
+  <td>3999</td>
+  <td class="We">1948</td>
+  <td class="We">1145</td>
+  <td class="We">1899</td>
+  <td>4769</td>
+  <td>5077</td>
+  <td>5157</td>
+  <td>5150</td>
+  <td class="We">2495</td>
+  <td class="We">1746</td>
+  <td>5038</td>
+  <td>5082</td>
+  <td>5264</td>
+  <td>5394</td>
+  <td>5295</td>
+  <td class="We">2631</td>
+  <td class="We">1872</td>
+  <td>5283</td>
+  <td>5368</td>
+  <td>5484</td>
+  <td>5563</td>
+  <td>4960</td>
+  <td>4128</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>All Eastbound</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>4815</td>
+  <td>4980</td>
+  <td>5113</td>
+  <td class="We">2545</td>
+  <td class="We">2055</td>
+  <td>5118</td>
+  <td>4976</td>
+  <td>5068</td>
+  <td>5062</td>
+  <td>3952</td>
+  <td class="We">1908</td>
+  <td class="We">1308</td>
+  <td class="WeH">2002</td>
+  <td>4981</td>
+  <td>5105</td>
+  <td>5196</td>
+  <td>5210</td>
+  <td class="We">2380</td>
+  <td class="We">1933</td>
+  <td>5219</td>
+  <td>5202</td>
+  <td>5281</td>
+  <td>5308</td>
+  <td>5185</td>
+  <td class="We">2533</td>
+  <td class="We">2066</td>
+  <td>5525</td>
+  <td>5528</td>
+  <td>5592</td>
+  <td>5634</td>
+  <td>5002</td>
+  <td>4171</td>
+  <td>126780</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>4815</td>
+  <td>4980</td>
+  <td>5113</td>
+  <td class="We">2545</td>
+  <td class="We">2055</td>
+  <td>5118</td>
+  <td>4976</td>
+  <td>5068</td>
+  <td>5062</td>
+  <td>3952</td>
+  <td class="We">1908</td>
+  <td class="We">1308</td>
+  <td class="We">2002</td>
+  <td>4981</td>
+  <td>5105</td>
+  <td>5196</td>
+  <td>5210</td>
+  <td class="We">2380</td>
+  <td class="We">1933</td>
+  <td>5219</td>
+  <td>5202</td>
+  <td>5281</td>
+  <td>5308</td>
+  <td>5185</td>
+  <td class="We">2533</td>
+  <td class="We">2066</td>
+
+  <td>5525</td>
+  <td>5528</td>
+  <td>5592</td>
+  <td>5634</td>
+  <td>5002</td>
+  <td>4171</td>
+  <td>126780</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>4815</td>
+  <td>4980</td>
+  <td>5113</td>
+  <td class="We">2545</td>
+  <td class="We">2055</td>
+  <td>5118</td>
+  <td>4976</td>
+  <td>5068</td>
+  <td>5062</td>
+  <td>3952</td>
+  <td class="We">1908</td>
+  <td class="We">1308</td>
+  <td class="We">2002</td>
+  <td>4981</td>
+  <td>5105</td>
+  <td>5196</td>
+  <td>5210</td>
+  <td class="We">2380</td>
+  <td class="We">1933</td>
+  <td>5219</td>
+  <td>5202</td>
+  <td>5281</td>
+  <td>5308</td>
+  <td>5185</td>
+  <td class="We">2533</td>
+  <td class="We">2066</td>
+  <td>5525</td>
+  <td>5528</td>
+  <td>5592</td>
+  <td>5634</td>
+  <td>5002</td>
+  <td>4171</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>4815</td>
+  <td>4980</td>
+  <td>5113</td>
+  <td class="We">2545</td>
+  <td class="We">2055</td>
+  <td>5118</td>
+  <td>4976</td>
+  <td>5068</td>
+  <td>5062</td>
+  <td>3952</td>
+  <td class="We">1908</td>
+  <td class="We">1308</td>
+  <td class="We">2002</td>
+  <td>4981</td>
+  <td>5105</td>
+  <td>5196</td>
+  <td>5210</td>
+  <td class="We">2380</td>
+  <td class="We">1933</td>
+  <td>5219</td>
+  <td>5202</td>
+  <td>5281</td>
+  <td>5308</td>
+  <td>5185</td>
+  <td class="We">2533</td>
+  <td class="We">2066</td>
+  <td>5525</td>
+  <td>5528</td>
+  <td>5592</td>
+  <td>5634</td>
+  <td>5002</td>
+  <td>4171</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Westbound Off Slip</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>1051</td>
+  <td>1131</td>
+  <td>1160</td>
+  <td class="We">649</td>
+  <td class="We">493</td>
+  <td>1147</td>
+  <td>1125</td>
+  <td>1127</td>
+  <td>1230</td>
+  <td>936</td>
+  <td class="We">582</td>
+  <td class="We">366</td>
+  <td class="WeH">509</td>
+  <td>1131</td>
+  <td>1149</td>
+  <td>1192</td>
+  <td>1236</td>
+  <td class="We">699</td>
+  <td class="We">497</td>
+  <td>1185</td>
+  <td>1157</td>
+  <td>1201</td>
+  <td>1208</td>
+  <td>1269</td>
+  <td class="We">688</td>
+  <td class="We">566</td>
+  <td>1201</td>
+  <td>1371</td>
+  <td>1378</td>
+  <td>1429</td>
+  <td>1160</td>
+  <td>991</td>
+  <td>30063</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>1051</td>
+  <td>1131</td>
+  <td>1160</td>
+  <td class="We">649</td>
+  <td class="We">493</td>
+  <td>1147</td>
+  <td>1125</td>
+  <td>1127</td>
+  <td>1230</td>
+  <td>936</td>
+  <td class="We">582</td>
+  <td class="We">366</td>
+  <td class="We">509</td>
+  <td>1131</td>
+  <td>1149</td>
+  <td>1192</td>
+  <td>1236</td>
+  <td class="We">699</td>
+  <td class="We">497</td>
+  <td>1185</td>
+  <td>1157</td>
+  <td>1201</td>
+  <td>1208</td>
+  <td>1269</td>
+  <td class="We">688</td>
+  <td class="We">566</td>
+  <td>1201</td>
+  <td>1371</td>
+  <td>1378</td>
+  <td>1429</td>
+  <td>1160</td>
+  <td>991</td>
+  <td>30063</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>1051</td>
+  <td>1131</td>
+  <td>1160</td>
+  <td class="We">649</td>
+  <td class="We">493</td>
+  <td>1147</td>
+  <td>1125</td>
+  <td>1127</td>
+  <td>1230</td>
+  <td>936</td>
+  <td class="We">582</td>
+  <td class="We">366</td>
+  <td class="We">509</td>
+  <td>1131</td>
+  <td>1149</td>
+  <td>1192</td>
+  <td>1236</td>
+  <td class="We">699</td>
+  <td class="We">497</td>
+  <td>1185</td>
+  <td>1157</td>
+  <td>1201</td>
+  <td>1208</td>
+  <td>1269</td>
+  <td class="We">688</td>
+  <td class="We">566</td>
+  <td>1201</td>
+  <td>1371</td>
+  <td>1378</td>
+  <td>1429</td>
+  <td>1160</td>
+  <td>991</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>1051</td>
+  <td>1131</td>
+  <td>1160</td>
+  <td class="We">649</td>
+  <td class="We">493</td>
+  <td>1147</td>
+  <td>1125</td>
+  <td>1127</td>
+  <td>1230</td>
+  <td>936</td>
+  <td class="We">582</td>
+  <td class="We">366</td>
+  <td class="We">509</td>
+  <td>1131</td>
+  <td>1149</td>
+  <td>1192</td>
+  <td>1236</td>
+  <td class="We">699</td>
+  <td class="We">497</td>
+  <td>1185</td>
+  <td>1157</td>
+  <td>1201</td>
+  <td>1208</td>
+  <td>1269</td>
+  <td class="We">688</td>
+  <td class="We">566</td>
+  <td>1201</td>
+  <td>1371</td>
+  <td>1378</td>
+  <td>1429</td>
+  <td>1160</td>
+  <td>991</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Westbound 1</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>3352</td>
+  <td>3422</td>
+  <td>3574</td>
+  <td class="We">1826</td>
+  <td class="We">1344</td>
+  <td>3326</td>
+  <td>3398</td>
+  <td>3426</td>
+  <td>3379</td>
+  <td>2752</td>
+  <td class="We">1284</td>
+  <td class="We">749</td>
+  <td class="WeH">1303</td>
+  <td>3135</td>
+  <td>3416</td>
+  <td>3471</td>
+  <td>3391</td>
+  <td class="We">1677</td>
+  <td class="We">1179</td>
+  <td>3334</td>
+  <td>3378</td>
+  <td>3479</td>
+  <td>3557</td>
+  <td>3479</td>
+  <td class="We">1801</td>
+  <td class="We">1230</td>
+  <td>3491</td>
+  <td>3468</td>
+  <td>3530</td>
+  <td>3559</td>
+  <td>3301</td>
+  <td>2754</td>
+  <td>83710</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>3352</td>
+  <td>3422</td>
+  <td>3574</td>
+  <td class="We">1826</td>
+  <td class="We">1344</td>
+  <td>3326</td>
+  <td>3398</td>
+  <td>3426</td>
+  <td>3379</td>
+  <td>2752</td>
+  <td class="We">1284</td>
+  <td class="We">749</td>
+  <td class="We">1303</td>
+  <td>3135</td>
+  <td>3416</td>
+  <td>3471</td>
+  <td>3391</td>
+  <td class="We">1677</td>
+  <td class="We">1179</td>
+  <td>3334</td>
+  <td>3378</td>
+  <td>3479</td>
+  <td>3557</td>
+  <td>3479</td>
+  <td class="We">1801</td>
+  <td class="We">1230</td>
+  <td>3491</td>
+  <td>3468</td>
+  <td>3530</td>
+  <td>3559</td>
+  <td>3301</td>
+  <td>2754</td>
+  <td>83710</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>3352</td>
+  <td>3422</td>
+  <td>3574</td>
+  <td class="We">1826</td>
+  <td class="We">1344</td>
+  <td>3326</td>
+  <td>3398</td>
+  <td>3426</td>
+  <td>3379</td>
+  <td>2752</td>
+  <td class="We">1284</td>
+  <td class="We">749</td>
+  <td class="We">1303</td>
+  <td>3135</td>
+  <td>3416</td>
+  <td>3471</td>
+  <td>3391</td>
+  <td class="We">1677</td>
+  <td class="We">1179</td>
+  <td>3334</td>
+  <td>3378</td>
+  <td>3479</td>
+  <td>3557</td>
+  <td>3479</td>
+  <td class="We">1801</td>
+  <td class="We">1230</td>
+  <td>3491</td>
+  <td>3468</td>
+  <td>3530</td>
+  <td>3559</td>
+  <td>3301</td>
+  <td>2754</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>3352</td>
+  <td>3422</td>
+  <td>3574</td>
+  <td class="We">1826</td>
+  <td class="We">1344</td>
+  <td>3326</td>
+  <td>3398</td>
+  <td>3426</td>
+  <td>3379</td>
+  <td>2752</td>
+  <td class="We">1284</td>
+  <td class="We">749</td>
+  <td class="We">1303</td>
+  <td>3135</td>
+  <td>3416</td>
+  <td>3471</td>
+  <td>3391</td>
+  <td class="We">1677</td>
+  <td class="We">1179</td>
+  <td>3334</td>
+  <td>3378</td>
+  <td>3479</td>
+  <td>3557</td>
+  <td>3479</td>
+  <td class="We">1801</td>
+  <td class="We">1230</td>
+  <td>3491</td>
+  <td>3468</td>
+  <td>3530</td>
+  <td>3559</td>
+  <td>3301</td>
+  <td>2754</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Westbound 2</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>452</td>
+  <td>467</td>
+  <td>535</td>
+  <td class="We">151</td>
+  <td class="We">95</td>
+  <td>469</td>
+  <td>497</td>
+  <td>496</td>
+  <td>528</td>
+  <td>311</td>
+  <td class="We">82</td>
+  <td class="We">30</td>
+  <td class="WeH">87</td>
+  <td>503</td>
+  <td>512</td>
+  <td>494</td>
+  <td>523</td>
+  <td class="We">119</td>
+  <td class="We">70</td>
+  <td>519</td>
+  <td>547</td>
+  <td>584</td>
+  <td>629</td>
+  <td>547</td>
+  <td class="We">142</td>
+  <td class="We">76</td>
+  <td>591</td>
+  <td>529</td>
+  <td>576</td>
+  <td>575</td>
+  <td>499</td>
+  <td>384</td>
+  <td>11736</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>452</td>
+  <td>467</td>
+  <td>535</td>
+  <td class="We">151</td>
+  <td class="We">95</td>
+  <td>469</td>
+  <td>497</td>
+  <td>496</td>
+  <td>528</td>
+  <td>311</td>
+  <td class="We">82</td>
+  <td class="We">30</td>
+  <td class="We">87</td>
+  <td>503</td>
+  <td>512</td>
+  <td>494</td>
+  <td>523</td>
+  <td class="We">119</td>
+  <td class="We">70</td>
+  <td>519</td>
+  <td>547</td>
+  <td>584</td>
+  <td>629</td>
+  <td>547</td>
+  <td class="We">142</td>
+  <td class="We">76</td>
+  <td>591</td>
+  <td>529</td>
+  <td>576</td>
+  <td>575</td>
+  <td>499</td>
+  <td>384</td>
+  <td>11736</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>452</td>
+  <td>467</td>
+  <td>535</td>
+  <td class="We">151</td>
+  <td class="We">95</td>
+  <td>469</td>
+  <td>497</td>
+  <td>496</td>
+  <td>528</td>
+  <td>311</td>
+  <td class="We">82</td>
+  <td class="We">30</td>
+  <td class="We">87</td>
+  <td>503</td>
+  <td>512</td>
+  <td>494</td>
+  <td>523</td>
+  <td class="We">119</td>
+  <td class="We">70</td>
+  <td>519</td>
+  <td>547</td>
+  <td>584</td>
+  <td>629</td>
+  <td>547</td>
+  <td class="We">142</td>
+  <td class="We">76</td>
+  <td>591</td>
+  <td>529</td>
+  <td>576</td>
+  <td>575</td>
+  <td>499</td>
+  <td>384</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>452</td>
+  <td>467</td>
+  <td>535</td>
+  <td class="We">151</td>
+  <td class="We">95</td>
+  <td>469</td>
+  <td>497</td>
+  <td>496</td>
+  <td>528</td>
+  <td>311</td>
+  <td class="We">82</td>
+  <td class="We">30</td>
+  <td class="We">87</td>
+  <td>503</td>
+  <td>512</td>
+  <td>494</td>
+  <td>523</td>
+  <td class="We">119</td>
+  <td class="We">70</td>
+  <td>519</td>
+  <td>547</td>
+  <td>584</td>
+  <td>629</td>
+  <td>547</td>
+  <td class="We">142</td>
+  <td class="We">76</td>
+  <td>591</td>
+  <td>529</td>
+  <td>576</td>
+  <td>575</td>
+  <td>499</td>
+  <td>384</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Eastbound 2</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>542</td>
+  <td>606</td>
+  <td>582</td>
+  <td class="We">173</td>
+  <td class="We">130</td>
+  <td>618</td>
+  <td>524</td>
+  <td>568</td>
+  <td>531</td>
+  <td>380</td>
+  <td class="We">90</td>
+  <td class="We">38</td>
+  <td class="WeH">136</td>
+  <td>565</td>
+  <td>602</td>
+  <td>595</td>
+  <td>564</td>
+  <td class="We">142</td>
+  <td class="We">106</td>
+  <td>585</td>
+  <td>615</td>
+  <td>573</td>
+  <td>638</td>
+  <td>577</td>
+  <td class="We">163</td>
+  <td class="We">130</td>
+  <td>664</td>
+  <td>765</td>
+  <td>642</td>
+  <td>742</td>
+  <td>573</td>
+  <td>444</td>
+  <td>13586</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>542</td>
+  <td>606</td>
+  <td>582</td>
+  <td class="We">173</td>
+  <td class="We">130</td>
+  <td>618</td>
+  <td>524</td>
+  <td>568</td>
+  <td>531</td>
+  <td>380</td>
+  <td class="We">90</td>
+  <td class="We">38</td>
+  <td class="We">136</td>
+  <td>565</td>
+  <td>602</td>
+  <td>595</td>
+  <td>564</td>
+  <td class="We">142</td>
+  <td class="We">106</td>
+  <td>585</td>
+  <td>615</td>
+  <td>573</td>
+  <td>638</td>
+  <td>577</td>
+  <td class="We">163</td>
+  <td class="We">130</td>
+  <td>664</td>
+  <td>765</td>
+  <td>642</td>
+  <td>742</td>
+  <td>573</td>
+  <td>444</td>
+  <td>13586</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>542</td>
+  <td>606</td>
+  <td>582</td>
+  <td class="We">173</td>
+  <td class="We">130</td>
+  <td>618</td>
+  <td>524</td>
+  <td>568</td>
+  <td>531</td>
+  <td>380</td>
+  <td class="We">90</td>
+  <td class="We">38</td>
+  <td class="We">136</td>
+  <td>565</td>
+  <td>602</td>
+  <td>595</td>
+  <td>564</td>
+  <td class="We">142</td>
+  <td class="We">106</td>
+  <td>585</td>
+  <td>615</td>
+  <td>573</td>
+  <td>638</td>
+  <td>577</td>
+  <td class="We">163</td>
+  <td class="We">130</td>
+  <td>664</td>
+  <td>765</td>
+  <td>642</td>
+  <td>742</td>
+  <td>573</td>
+  <td>444</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>542</td>
+  <td>606</td>
+  <td>582</td>
+  <td class="We">173</td>
+  <td class="We">130</td>
+  <td>618</td>
+  <td>524</td>
+  <td>568</td>
+  <td>531</td>
+  <td>380</td>
+  <td class="We">90</td>
+  <td class="We">38</td>
+  <td class="We">136</td>
+  <td>565</td>
+  <td>602</td>
+  <td>595</td>
+  <td>564</td>
+  <td class="We">142</td>
+
+  <td class="We">106</td>
+  <td>585</td>
+  <td>615</td>
+  <td>573</td>
+  <td>638</td>
+  <td>577</td>
+  <td class="We">163</td>
+  <td class="We">130</td>
+  <td>664</td>
+  <td>765</td>
+  <td>642</td>
+  <td>742</td>
+  <td>573</td>
+  <td>444</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Eastbound 1</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>3151</td>
+  <td>3208</td>
+  <td>3283</td>
+  <td class="We">1692</td>
+  <td class="We">1400</td>
+  <td>3284</td>
+  <td>3265</td>
+  <td>3306</td>
+  <td>3314</td>
+  <td>2620</td>
+  <td class="We">1230</td>
+  <td class="We">852</td>
+  <td class="WeH">1327</td>
+  <td>3206</td>
+  <td>3294</td>
+  <td>3377</td>
+  <td>3378</td>
+  <td class="We">1551</td>
+  <td class="We">1280</td>
+  <td>3387</td>
+  <td>3386</td>
+  <td>3437</td>
+  <td>3395</td>
+  <td>3365</td>
+  <td class="We">1678</td>
+  <td class="We">1392</td>
+  <td>3576</td>
+  <td>3423</td>
+  <td>3585</td>
+  <td>3558</td>
+  <td>3233</td>
+  <td>2705</td>
+  <td>82200</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>3151</td>
+  <td>3208</td>
+  <td>3283</td>
+  <td class="We">1692</td>
+  <td class="We">1400</td>
+  <td>3284</td>
+  <td>3265</td>
+  <td>3306</td>
+  <td>3314</td>
+  <td>2620</td>
+  <td class="We">1230</td>
+  <td class="We">852</td>
+  <td class="We">1327</td>
+  <td>3206</td>
+  <td>3294</td>
+  <td>3377</td>
+  <td>3378</td>
+  <td class="We">1551</td>
+  <td class="We">1280</td>
+  <td>3387</td>
+  <td>3386</td>
+  <td>3437</td>
+  <td>3395</td>
+  <td>3365</td>
+  <td class="We">1678</td>
+  <td class="We">1392</td>
+  <td>3576</td>
+  <td>3423</td>
+  <td>3585</td>
+  <td>3558</td>
+  <td>3233</td>
+  <td>2705</td>
+  <td>82200</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>3151</td>
+  <td>3208</td>
+  <td>3283</td>
+  <td class="We">1692</td>
+  <td class="We">1400</td>
+  <td>3284</td>
+  <td>3265</td>
+  <td>3306</td>
+  <td>3314</td>
+  <td>2620</td>
+  <td class="We">1230</td>
+  <td class="We">852</td>
+  <td class="We">1327</td>
+  <td>3206</td>
+  <td>3294</td>
+  <td>3377</td>
+  <td>3378</td>
+  <td class="We">1551</td>
+  <td class="We">1280</td>
+  <td>3387</td>
+  <td>3386</td>
+  <td>3437</td>
+  <td>3395</td>
+  <td>3365</td>
+  <td class="We">1678</td>
+  <td class="We">1392</td>
+  <td>3576</td>
+  <td>3423</td>
+  <td>3585</td>
+  <td>3558</td>
+  <td>3233</td>
+  <td>2705</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>3151</td>
+  <td>3208</td>
+  <td>3283</td>
+  <td class="We">1692</td>
+  <td class="We">1400</td>
+  <td>3284</td>
+  <td>3265</td>
+  <td>3306</td>
+  <td>3314</td>
+  <td>2620</td>
+  <td class="We">1230</td>
+  <td class="We">852</td>
+  <td class="We">1327</td>
+  <td>3206</td>
+  <td>3294</td>
+  <td>3377</td>
+  <td>3378</td>
+  <td class="We">1551</td>
+  <td class="We">1280</td>
+  <td>3387</td>
+  <td>3386</td>
+  <td>3437</td>
+  <td>3395</td>
+  <td>3365</td>
+  <td class="We">1678</td>
+  <td class="We">1392</td>
+  <td>3576</td>
+  <td>3423</td>
+  <td>3585</td>
+  <td>3558</td>
+  <td>3233</td>
+  <td>2705</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=34>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=34>Eastbound On Slip</th></tr>
+ <tr>
+  <th></th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th class="We">Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th class="We">Sat</th>
+  <th class="We">Sun</th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>2020-04-01</th>
+  <th>2020-04-02</th>
+  <th>2020-04-03</th>
+  <th class="We">2020-04-04</th>
+  <th class="We">2020-04-05</th>
+  <th>2020-04-06</th>
+  <th>2020-04-07</th>
+  <th>2020-04-08</th>
+  <th>2020-04-09</th>
+  <th>2020-04-10</th>
+  <th class="We">2020-04-11</th>
+  <th class="We">2020-04-12</th>
+  <th class="We">2020-04-13</th>
+  <th>2020-04-14</th>
+  <th>2020-04-15</th>
+  <th>2020-04-16</th>
+  <th>2020-04-17</th>
+  <th class="We">2020-04-18</th>
+  <th class="We">2020-04-19</th>
+  <th>2020-04-20</th>
+  <th>2020-04-21</th>
+  <th>2020-04-22</th>
+  <th>2020-04-23</th>
+  <th>2020-04-24</th>
+  <th class="We">2020-04-25</th>
+  <th class="We">2020-04-26</th>
+  <th>2020-04-27</th>
+  <th>2020-04-28</th>
+  <th>2020-04-29</th>
+  <th>2020-04-30</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td>1122</td>
+  <td>1166</td>
+  <td>1248</td>
+  <td class="We">680</td>
+  <td class="We">525</td>
+  <td>1216</td>
+  <td>1187</td>
+  <td>1194</td>
+  <td>1217</td>
+  <td>952</td>
+  <td class="We">588</td>
+  <td class="We">418</td>
+  <td class="WeH">539</td>
+  <td>1210</td>
+  <td>1209</td>
+  <td>1224</td>
+  <td>1268</td>
+  <td class="We">687</td>
+  <td class="We">547</td>
+  <td>1247</td>
+  <td>1201</td>
+  <td>1271</td>
+  <td>1275</td>
+  <td>1243</td>
+  <td class="We">692</td>
+  <td class="We">544</td>
+  <td>1285</td>
+  <td>1340</td>
+  <td>1365</td>
+  <td>1334</td>
+  <td>1196</td>
+  <td>1021</td>
+  <td>30994</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td class="We"></td>
+  <td class="We"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td>1122</td>
+  <td>1166</td>
+  <td>1248</td>
+  <td class="We">680</td>
+  <td class="We">525</td>
+  <td>1216</td>
+  <td>1187</td>
+  <td>1194</td>
+  <td>1217</td>
+  <td>952</td>
+  <td class="We">588</td>
+  <td class="We">418</td>
+  <td class="We">539</td>
+  <td>1210</td>
+  <td>1209</td>
+  <td>1224</td>
+  <td>1268</td>
+  <td class="We">687</td>
+  <td class="We">547</td>
+  <td>1247</td>
+  <td>1201</td>
+  <td>1271</td>
+  <td>1275</td>
+  <td>1243</td>
+  <td class="We">692</td>
+  <td class="We">544</td>
+  <td>1285</td>
+  <td>1340</td>
+  <td>1365</td>
+  <td>1334</td>
+  <td>1196</td>
+  <td>1021</td>
+  <td>30994</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>1122</td>
+  <td>1166</td>
+  <td>1248</td>
+  <td class="We">680</td>
+  <td class="We">525</td>
+  <td>1216</td>
+  <td>1187</td>
+  <td>1194</td>
+  <td>1217</td>
+  <td>952</td>
+  <td class="We">588</td>
+  <td class="We">418</td>
+  <td class="We">539</td>
+  <td>1210</td>
+  <td>1209</td>
+  <td>1224</td>
+  <td>1268</td>
+  <td class="We">687</td>
+  <td class="We">547</td>
+  <td>1247</td>
+  <td>1201</td>
+  <td>1271</td>
+  <td>1275</td>
+  <td>1243</td>
+  <td class="We">692</td>
+  <td class="We">544</td>
+  <td>1285</td>
+  <td>1340</td>
+  <td>1365</td>
+  <td>1334</td>
+  <td>1196</td>
+  <td>1021</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td class="We">00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td>00:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>1122</td>
+  <td>1166</td>
+  <td>1248</td>
+  <td class="We">680</td>
+  <td class="We">525</td>
+  <td>1216</td>
+  <td>1187</td>
+  <td>1194</td>
+  <td>1217</td>
+  <td>952</td>
+  <td class="We">588</td>
+  <td class="We">418</td>
+  <td class="We">539</td>
+  <td>1210</td>
+  <td>1209</td>
+  <td>1224</td>
+  <td>1268</td>
+  <td class="We">687</td>
+  <td class="We">547</td>
+  <td>1247</td>
+  <td>1201</td>
+  <td>1271</td>
+  <td>1275</td>
+  <td>1243</td>
+  <td class="We">692</td>
+  <td class="We">544</td>
+  <td>1285</td>
+  <td>1340</td>
+  <td>1365</td>
+  <td>1334</td>
+  <td>1196</td>
+  <td>1021</td>
+  <td></td>
+ </tr>
+</table> <!--grid-->
+<BR>
+<table class="key">
+<tr ALIGN=left><td class="RH">Event key:</td><td class="A">&nbsp;&nbsp;&nbsp;</td><td>Accident&nbsp;&nbsp;&nbsp;</td><td class="W">&nbsp;&nbsp;&nbsp;</td><td>Road Works&nbsp;&nbsp;&nbsp;</td><td class="S">&nbsp;&nbsp;&nbsp;</td><td>Special&nbsp;&nbsp;&nbsp;</td><td class="C">&nbsp;&nbsp;&nbsp;</td><td>Road Closed&nbsp;&nbsp;&nbsp;</td><td class="H">&nbsp;&nbsp;&nbsp;</td><td>Holiday&nbsp;&nbsp;&nbsp;</td><td class="O">&nbsp;&nbsp;&nbsp;</td><td>Offline&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td></td><td class="H">&nbsp;&nbsp;&nbsp;</td><td COLSPAN=9>Weekends and defined holidays&nbsp;&nbsp;&nbsp;</td></tr>
+</table> <!--key-->
+<table class="notes">
+<tr><td class="RH" COLSPAN=11>Notes on data:</td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td COLSPAN=10>Weekly (7-day) averages are calculated as the average of workday values and weekend values, weighted in the proportion 5:2.</td></tr>
+</table> <!--notes-->
+<table class="events">
+<tr><td class="RH" COLSPAN=8>Holidays & Events:</td></tr>
+<tr><th></th><th COLSPAN=2>Start</th><th COLSPAN=2>End</th><th>Type</th><th>Lanes</th><th>Included</th><th COLSPAN=20 ALIGN=left>Description</th></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2020-04-13 00:00:00</td><td COLSPAN=2>2020-04-13 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+</table> <!--events-->
+  </div></div>  </div> <!--content-->
+ </div> <!--container-->
+ <div id="push"></div>
+</div> <!--wrapper-->
+<script>
+(function($){
+  $(document).ready(function(){
+    $('.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+      event.preventDefault(); 
+      event.stopPropagation(); 
+      $(this).parent().siblings().removeClass('open');
+      $(this).parent().toggleClass('open');
+    });
+  });
+  $('#nav-expander').on('click',function(e){
+  	e.preventDefault();
+  	$('.sidebar-nav').toggleClass('nav-expanded');
+  	$('.nav-expander').toggleClass('nav-expander-expanded');
+  	if($('.sidebar-nav').hasClass('nav-expanded')) {
+  		localStorage.setItem("c2_showmenu", true);
+  	} else {
+  		localStorage.setItem("c2_showmenu", false);
+  	}
+  });
+  $('#nav-close').on('click',function(e){
+  	e.preventDefault();
+  	$('.sidebar-nav').removeClass('nav-expanded');
+  	$('.nav-expander').removeClass('nav-expander-expanded');
+  	localStorage.setItem("c2_showmenu", false);
+  });
+  
+  $('#footer-expander').on('click',function(e){
+  	e.preventDefault();
+  	if($('#footer').css('bottom') === '0px') {
+  		$('#footer').css('bottom', '-' + ($('#footer').height()) + 'px').css('transition', 'bottom 0.3s ease-in-out 0s');
+  		$('#footer-expander').html('<span class="glyphicon glyphicon-chevron-up">');
+  		setTimeout(function() {
+  			$('#footer div').hide();
+  		}, 100);
+  	} else {
+  		$('#footer div').show();
+  		$('#footer').css('bottom', '0px').css('transition', 'bottom 0.3s ease-in-out 0s');
+  		$('#footer-expander').html('<span class="glyphicon glyphicon-chevron-down">');
+  	}
+  });
+  
+	if($('#nav-expander') && $('#nav-expander').length > 0 && localStorage.getItem("c2_showmenu") === "true") {
+		$('#nav-expander').addClass('nav-expander-expanded');
+		$('.sidebar-nav').addClass('nav-expanded');
+	}
+})(jQuery);
+</script>
+</body>
+</html>
